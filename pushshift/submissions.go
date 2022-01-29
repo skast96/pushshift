@@ -34,6 +34,7 @@ type SubmissionQuery struct {
 	Permalink           string `url:"permalink,omitempty" json:"permalink,omitempty"`
 	IsUserRemoved       bool   `url:"user_removed,omitempty" json:"user_removed,omitempty"`
 	IsModRemoved        bool   `url:"mod_removed,omitempty" json:"mod_removed,omitempty"`
+	Size		    int    `url:"size,omitempty" json:"size,omitempty"`
 	SubredditType       string `url:"subreddit_type,omitempty" json:"subreddit_type,omitempty"`
 	AuthorFlairCSSClass string `url:"author_flair_css_class,omitempty" json:"author_flair_css_class,omitempty"`
 	AuthorFlairText     string `url:"author_flair_text,omitempty" json:"author_flair_text,omitempty"`
