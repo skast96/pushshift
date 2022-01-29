@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/mfdeux/pushshift/cmd"
+	"github.com/skast96/pushshift/cmd"
 )
 
 func main() {

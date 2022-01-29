@@ -1,8 +1,8 @@
 # pushshift
 
-[![](https://godoc.org/github.com/mfdeux/pushshift?status.svg)](http://godoc.org/github.com/mfdeux/pushshift)
+[![](https://godoc.org/github.com/skast96/pushshift?status.svg)](http://godoc.org/github.com/skast96/pushshift)
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/mfdeux/pushshift)](https://goreportcard.com/report/github.com/mfdeux/pushshift)
+[![Go Report Card](https://goreportcard.com/badge/github.com/skast96/pushshift)](https://goreportcard.com/report/github.com/skast96/pushshift)
 
 A Go client for the [pushshift.io reddit API](https://pushshift.io/api-parameters/).
 

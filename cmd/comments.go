@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/mfdeux/pushshift/pushshift"
+	"github.com/skast96/pushshift/pushshift"
 	"github.com/spf13/cobra"
 )
 
