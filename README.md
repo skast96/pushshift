@@ -10,7 +10,7 @@ A Go client for the [pushshift.io reddit API](https://pushshift.io/api-parameter
 
 Install the package with
 
-`go get -u github.com/mfdeux/pushshift`
+`go get -u github.com/skast96/pushshift`
 
 ## Authentication
 
